@@ -1,4 +1,4 @@
-import { serverconfig } from "./index.mjs";
+import { serverconfig } from "../index.mjs";
 
 
 export function getMemberLastOnlineTime(memberID) {
